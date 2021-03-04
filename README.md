@@ -16,7 +16,6 @@ This project was created as the final assignment for the
     - Methodology
     - Import Libraries
     - Explore data
-    - Utilizing the Foursquare API
     - Cluster Districts
     - Analyze
 
