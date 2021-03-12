@@ -20,7 +20,5 @@ This project was created as the final assignment for the
     - Analyze
 
 
-4. Results
+4. Results and Conclusion
 
-
-5. Conclusion
